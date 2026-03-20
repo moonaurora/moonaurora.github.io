@@ -14,6 +14,16 @@ Currently, I am focusing on:
 - **Multimodal Reasoning**
 - **Embodied Agents**
 
+## Research Experience
+- **Research Assistant**, Affective Vision and Computing Lab (AVCLab), Jilin University, 2025–Present
+
+## Research Projects
+- **Emotional Companion Embodied Agent: An Affective Robotic System for Real-World Interaction**  
+  Undergraduate Research Training Program, 2025–Present
+
+- **Research on Automatic Assisted Driving Based on Large Language Models**  
+  National Innovation and Entrepreneurship Training Program for College Students, 2024–2026
+
 ## Publication
 <!-- (* denotes the co-first authors) -->
 
@@ -27,6 +37,6 @@ Ruoxuan Zhang, **Qiyun Zheng**, Zhiyu Zhou, Ziqi Liao, Siyu Wu, Jian-Yu Jiang-Li
 - Outstanding Student, College of Computer Science and Technology, Jilin University
 
 ## Competition Experience
-- **First Prize, China Collegiate Computer Design Competition（中国计算机博弈大赛）**, 2025.8
-- **Third Prize, National Finals of the Programming Skills Track, RAICOM Robotics Developer Competition（睿抗机器人开发者大赛 全国总决赛 编程技能竞赛项目）**, 2025.8
-- **First Prize, Jilin Regional Programming Skills Track, RAICOM Robotics Developer Competition（睿抗机器人开发者大赛 吉林赛区 编程技能竞赛项目））**, 2025.7
+- **First Prize, China Collegiate Computer Design Competition（中国计算机博弈大赛）**, 2025
+- **Third Prize, National Finals of the Programming Skills Track, RAICOM Robotics Developer Competition（睿抗机器人开发者大赛 全国总决赛 编程技能竞赛项目）**, 2025
+- **First Prize, Jilin Regional Programming Skills Track, RAICOM Robotics Developer Competition（睿抗机器人开发者大赛 吉林赛区 编程技能竞赛项目）**, 2025
