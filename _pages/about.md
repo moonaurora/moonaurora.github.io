@@ -25,3 +25,8 @@ Ruoxuan Zhang, **Qiyun Zheng**, Zhiyu Zhou, Ziqi Liao, Siyu Wu, Jian-Yu Jiang-Li
 ## Honor
 - First-Class Scholarship, Jilin University
 - Outstanding Student, College of Computer Science and Technology, Jilin University
+
+## Competition Experience
+- **First Prize, China Collegiate Computer Design Competition（中国计算机博弈大赛）**, 2025.8
+- **Third Prize, National Finals of the Programming Skills Track, RAICOM Robotics Developer Competition（睿抗机器人开发者大赛 全国总决赛 编程技能竞赛项目）**, 2025.8
+- **First Prize, Jilin Regional Programming Skills Track, RAICOM Robotics Developer Competition（睿抗机器人开发者大赛 吉林赛区 编程技能竞赛项目））**, 2025.7
