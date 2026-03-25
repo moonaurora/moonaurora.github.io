@@ -11,18 +11,17 @@ I am currently a final-year undergraduate student at the College of Computer Sci
 
 ## Research Interests
 Currently, I am focusing on:
-- **Multimodal Reasoning**
-- **Embodied Agents**
+- My research interests lie in multimodal reasoning and embodied intelligence, with a particular focus on vision-language models and multimodal large language models. I am interested in building intelligent agents that can integrate perception, reasoning, and action in complex environments. My recent work explores topics including theory-of-mind reasoning, emotion understanding, multimodal perception, and decision-making for embodied agents, with the goal of improving the reasoning ability, interpretability, and real-world adaptability of AI systems.
 
 ## Research Experience
 - **Research Assistant**, Affective Vision and Computing Lab (AVCLab), Jilin University, 2025–Present
 
 ## Research Projects
 - **Emotional Companion Embodied Agent: An Affective Robotic System for Real-World Interaction**  
-  Undergraduate Research Training Program, 2025–Present
+  Undergraduate Research Training Program, 2025 – Present
 
 - **Research on Automatic Assisted Driving Based on Large Language Models**  
-  National Innovation and Entrepreneurship Training Program for College Students, 2024–2026
+  National Innovation and Entrepreneurship Training Program for College Students, 2024 – 2026
 
 ## Publication
 <!-- (* denotes the co-first authors) -->
