@@ -30,7 +30,7 @@ Currently, I am focusing on:
 ### Conference Papers
 - **MindPower: Enabling Theory-of-Mind Reasoning in VLM-based Embodied Agents.**  
 Ruoxuan Zhang, **Qiyun Zheng**, Zhiyu Zhou, Ziqi Liao, Siyu Wu, Jian-Yu Jiang-Lin, Bin Wen, Hongxia Xie, Jianlong Fu, Wen-Huang Cheng.  
-*Proceedings of the IEEE/CVF Conference on Computer Vision and Pattern Recognition (<span style="color: #0366d6">CVPR 2026</span>).*
+*Proceedings of the IEEE/CVF Conference on Computer Vision and Pattern Recognition (<span style="color: #0366d6">CVPR 2026</span>).*[PDF](https://moonaurora.github.io/files/MindPower.pdf) [论文中文解读](https://mp.weixin.qq.com/s/_2ubkBGpWH2fNC_uUOiwmA)
 
 ## Honor
 - First-Class Scholarship, Jilin University
