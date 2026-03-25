@@ -10,7 +10,6 @@ redirect_from:
 I am currently a final-year undergraduate student at the College of Computer Science and Technology, [Jilin University](https://www.jlu.edu.cn/), advised by Professor [Hongxia Xie](https://ccst.jlu.edu.cn/info/1359/18959.htm).
 
 ## Research Interests
-Currently, I am focusing on:
 - My research interests lie in multimodal reasoning and embodied intelligence, with a particular focus on vision-language models and multimodal large language models. I am interested in building intelligent agents that can integrate perception, reasoning, and action in complex environments. My recent work explores topics including theory-of-mind reasoning, emotion understanding, multimodal perception, and decision-making for embodied agents, with the goal of improving the reasoning ability, interpretability, and real-world adaptability of AI systems.
 
 ## Research Experience
